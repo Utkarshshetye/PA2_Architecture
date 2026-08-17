@@ -1,0 +1,1 @@
+./bin/champsim-exclusive-no -warmup_instructions 25000000 -simulation_instructions 25000000 -traces /home/utkarsh/Desktop/cs683/Trace/trace4.champsimtrace.xz
